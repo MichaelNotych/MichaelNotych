@@ -11,7 +11,7 @@ I'm a **Fullstack Developer** who loves crafting web experiences from backend lo
 ## 🛠️ Notable Projects
 
 - [scrumpoker-monorepo](https://github.com/MichaelNotych/scrumpoker-monorepo) — Collaborative Scrum Poker app for agile teams
-- [cost-note](https://github.com/MichaelNotych/cost-note) — Intuitive expense tracking and budgeting tool (In progress)
+- [cost-notes](https://github.com/MichaelNotych/cost-notes) — Intuitive expense tracking with AI analyse 
 
 ## 🌍 Connect With Me
 
